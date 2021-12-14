@@ -3,7 +3,7 @@
 
 # Getting Started
 
-Click this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FEducationalSciences693%2FPythonBinder/HEAD) to run this project!
+Click this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fsnotskie%2FOSFTest/HEAD) to run this project!
 
 You'll find everything you need in `main.ipynb`!
 
@@ -19,7 +19,7 @@ Changes that you make on binder are temporary. You can download your files from 
 
 To make your own repo copy of this project that you can edit:
 
-1. Create a [copy of this template](https://github.com/EducationalSciences693/PythonBinder/generate). It will need to be a public repo, but you can name it whatever you want
+1. Create a [copy of this template](https://github.com/snotskie/OSFTest/generate). It will need to be a public repo, but you can name it whatever you want
 2. Create a [github personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). It will need the `repo` and `workflow` scopes
 3. Open your project on binder (the binder button in your README will automatically update to link to your project!)
 4. Make edits to your project on binder like you normally would
@@ -34,7 +34,7 @@ When prompted to enter your password, enter your personal access token instead.
 
 # Model Card
 
-Last updated: 2021-12-12 04:07:35 PM UTC
+Last updated: 2021-12-14 08:33:49 PM UTC
 
 Inspired by [Model Cards for Model Reporting (Mitchell et al.)](https://arxiv.org/abs/1810.03993).
 
